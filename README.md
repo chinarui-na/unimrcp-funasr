@@ -1,6 +1,6 @@
 # unimrcp-funasr
 @[TOC](使用Unimrcp和Funasr构建呼叫中心语音识别服务端)
-
+经过压力测试，服务很稳定，16c的机器能满足16个实时并发
 # 1.编译及运行unimrcp
 
 
