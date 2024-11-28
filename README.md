@@ -1,4 +1,5 @@
-# unimrcp-funasr
+# unimrcp-funasr vx: wxh_assistant
+
 @[TOC](使用Unimrcp和Funasr构建呼叫中心语音识别服务端)
 可编译安装，可docker运行，经过压力测试，服务很稳定，16c的机器能满足16个实时并发。合作见底部VX.
 # 1.编译及运行unimrcp
